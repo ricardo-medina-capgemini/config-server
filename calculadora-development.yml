@@ -1,0 +1,4 @@
+applicacion:
+  errores:
+    badrequest: "Los valores son incorrectos"
+    internalServerError: "Error inesperado"
